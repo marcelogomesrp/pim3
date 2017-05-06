@@ -1,6 +1,11 @@
 alguma coisa
 <<<<<<< HEAD
+<<<<<<< HEAD
 Maluf_Editou o arquivo da TaLiNe
 =======
 todo mundo dançando
+>>>>>>> origin/master
+=======
+todo mundo dançando
+sai daqui maluf kkkkk
 >>>>>>> origin/master
