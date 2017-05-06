@@ -8,12 +8,6 @@ namespace AdmCondominio.model
 {
     public class Conta
     {
-        public DateTime dataVencimento;
-        public DateTime dataPagamento;
-        public Decimal valordevido;
-        public Decimal valorfatura;
-        public String descricaofatura;
-
 
     }
 }
