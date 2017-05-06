@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdmCondominio.model
+namespace AdmCondominioDAO
 {
-    public class Marcelo
+    public class Class1
     {
-        //flavio criou
     }
 }
