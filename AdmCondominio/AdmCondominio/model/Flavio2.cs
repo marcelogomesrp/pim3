@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdmCondominio.model
 {
-    public class Marcelo
+    class Flavio2
     {
-        
     }
 }
