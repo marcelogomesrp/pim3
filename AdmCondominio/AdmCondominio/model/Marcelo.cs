@@ -8,6 +8,9 @@ namespace AdmCondominio.model
 {
     class Marcelo
     {
+<<<<<<< HEAD
         //flavio criou
+=======
+>>>>>>> origin/master
     }
 }
