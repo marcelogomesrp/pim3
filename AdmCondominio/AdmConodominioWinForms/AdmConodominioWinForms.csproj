@@ -52,6 +52,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -73,6 +76,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdmCondominioMySQL\AdmCondominioMySQL.csproj">
+      <Project>{c92b8bc6-a904-45ca-a69a-2679becc7b40}</Project>
+      <Name>AdmCondominioMySQL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AdmCondominio\AdmCondominio.csproj">
+      <Project>{bfe59f00-3921-467d-9394-615650db4185}</Project>
+      <Name>AdmCondominio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdmCondominio.model
 {
-    class Banco
+    public class Banco
     {
     }
 }
