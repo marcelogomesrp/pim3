@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="model\Aluno.cs" />
     <Compile Include="model\Banco.cs" />
     <Compile Include="model\Conta.cs" />
     <Compile Include="model\Flavio.cs" />

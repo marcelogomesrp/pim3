@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdmConodominioWinForms", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdmCondominioUnitTest", "AdmCondominioUnitTest\AdmCondominioUnitTest.csproj", "{DF426014-4E13-4856-AB0F-2E4B3C6711E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteProjeto", "TesteProjeto\TesteProjeto.csproj", "{6D0CC345-42DB-43E5-B823-F1DE4375DFF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DF426014-4E13-4856-AB0F-2E4B3C6711E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF426014-4E13-4856-AB0F-2E4B3C6711E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF426014-4E13-4856-AB0F-2E4B3C6711E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0CC345-42DB-43E5-B823-F1DE4375DFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0CC345-42DB-43E5-B823-F1DE4375DFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0CC345-42DB-43E5-B823-F1DE4375DFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0CC345-42DB-43E5-B823-F1DE4375DFF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
