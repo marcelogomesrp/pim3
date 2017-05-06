@@ -13,5 +13,7 @@ namespace AdmCondominio.model
         public Decimal valordevido;
         public Decimal valorfatura;
         public String descricaofatura;
+
+
     }
 }
