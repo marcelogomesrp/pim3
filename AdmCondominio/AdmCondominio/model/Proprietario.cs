@@ -8,5 +8,6 @@ namespace AdmCondominio.model
 {
     class Proprietario
     {
+
     }
 }

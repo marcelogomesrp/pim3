@@ -39,7 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="model\Funcionario.cs" />
+    <Compile Include="model\Proprietario.cs" />
     <Compile Include="model\Taline.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
