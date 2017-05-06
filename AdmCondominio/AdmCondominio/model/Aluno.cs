@@ -17,7 +17,7 @@ namespace AdmCondominio.model
         }
         public Boolean IsAprovado
         {
-            get { return Media == 5; }
+            get { return Media >= 5; }
         }
     }
 }
