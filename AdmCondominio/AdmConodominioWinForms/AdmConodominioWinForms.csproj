@@ -74,16 +74,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AdmCondominioMySQL\AdmCondominioMySQL.csproj">
-      <Project>{c92b8bc6-a904-45ca-a69a-2679becc7b40}</Project>
-      <Name>AdmCondominioMySQL</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\AdmCondominio\AdmCondominio.csproj">
-      <Project>{bfe59f00-3921-467d-9394-615650db4185}</Project>
-      <Name>AdmCondominio</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
