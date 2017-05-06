@@ -8,6 +8,6 @@ namespace AdmCondominio.model
 {
     class Proprietario
     {
-
+        public String nome;
     }
 }
