@@ -42,7 +42,6 @@
     <Compile Include="model\Banco.cs" />
     <Compile Include="model\Conta.cs" />
     <Compile Include="model\Flavio.cs" />
-    <Compile Include="model\Flavio2.cs" />
     <Compile Include="model\Marcelo.cs" />
     <Compile Include="model\Proprietario.cs" />
     <Compile Include="model\Taline.cs" />
