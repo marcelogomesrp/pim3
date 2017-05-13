@@ -41,7 +41,6 @@
   <ItemGroup>
     <Compile Include="model\Aluno.cs" />
     <Compile Include="model\Banco.cs" />
-    <Compile Include="model\ClassTest.cs" />
     <Compile Include="model\Conta.cs" />
     <Compile Include="model\Flavio.cs" />
     <Compile Include="model\Marcelo.cs" />
